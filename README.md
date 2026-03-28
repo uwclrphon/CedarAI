@@ -59,7 +59,7 @@ pip install PySide6 openai requests
 
 3. **运行应用**
 ```bash
-python src/main.py
+python -m src.main
 ```
 
 ### 首次运行配置
