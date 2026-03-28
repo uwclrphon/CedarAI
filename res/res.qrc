@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>image/close.png</file>
+    <file>image/minimize.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+# CedarAI 依赖包
+
+# 核心GUI框架
+PySide6>=6.5.0
+
+# AI API客户端
+openai>=1.0.0
+
+# 网络请求
+requests>=2.31.0
+
+# 可选：用于网络搜索等功能
+# beautifulsoup4>=4.12.0  # 如果需要HTML解析
+# lxml>=4.9.0  # 如果需要XML解析
+
+# 开发依赖（可选）
+# black>=23.0.0  # 代码格式化
+# flake8>=6.0.0  # 代码检查
+# pytest>=7.0.0  # 测试框架
